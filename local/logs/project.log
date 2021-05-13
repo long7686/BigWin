@@ -1,0 +1,85 @@
+2021-05-13T11:09:31.855Z - normal: Load ~/.CocosCreator/settings.json
+2021-05-13T11:09:31.901Z - normal: Initializing Asset Database
+2021-05-13T11:09:31.903Z - normal: checking language setting...
+2021-05-13T11:09:31.903Z - normal: Language: en
+2021-05-13T11:09:32.449Z - success: preview server running at http://localhost:7456
+2021-05-13T11:09:32.458Z - success: protocol editor-framework registered
+2021-05-13T11:09:32.458Z - success: protocol app registered
+2021-05-13T11:09:32.458Z - success: protocol theme registered
+2021-05-13T11:09:32.459Z - success: protocol packages registered
+2021-05-13T11:09:32.459Z - success: protocol uuid registerred
+2021-05-13T11:09:32.459Z - success: protocol db registerred
+2021-05-13T11:09:32.459Z - success: protocol thumbnail registerred
+2021-05-13T11:09:32.459Z - success: protocol unpack registerred
+2021-05-13T11:09:32.459Z - success: protocol disable-commonjs registerred
+2021-05-13T11:09:34.008Z - normal: connected!
+2021-05-13T11:09:34.009Z - normal: Check project /Users/gemi/NewProject_6
+2021-05-13T11:09:34.011Z - normal: Initializing project /Users/gemi/NewProject_6
+2021-05-13T11:09:34.298Z - normal: Initializing Cocos2d
+2021-05-13T11:09:34.961Z - normal: Initializing engine extends
+2021-05-13T11:09:34.984Z - success: alipay-adapter loaded
+2021-05-13T11:09:34.991Z - success: asset-db-debugger loaded
+2021-05-13T11:09:34.997Z - success: baidu-adapter loaded
+2021-05-13T11:09:35.001Z - success: color-picker loaded
+2021-05-13T11:09:35.131Z - success: fb-audience-network loaded
+2021-05-13T11:09:35.180Z - success: fb-live-stream loaded
+2021-05-13T11:09:35.184Z - success: google-play-instant loaded
+2021-05-13T11:09:35.190Z - success: huawei-runtime loaded
+2021-05-13T11:09:35.381Z - success: cpk-publish loaded
+2021-05-13T11:09:35.383Z - success: jsb-adapter loaded
+2021-05-13T11:09:35.388Z - success: oppo-runtime loaded
+2021-05-13T11:09:35.393Z - success: package-manager loaded
+2021-05-13T11:09:35.499Z - success: qqplay-adapter loaded
+2021-05-13T11:09:35.502Z - success: runtime-dev-tools loaded
+2021-05-13T11:09:35.507Z - success: sdkbox loaded
+2021-05-13T11:09:35.513Z - success: tester loaded
+2021-05-13T11:09:35.516Z - success: ui-kit-preview-extra loaded
+2021-05-13T11:09:35.520Z - success: ui-kit-preview loaded
+2021-05-13T11:09:35.523Z - success: ui-kit loaded
+2021-05-13T11:09:35.528Z - success: vivo-runtime loaded
+2021-05-13T11:09:35.529Z - success: weapp-adapter loaded
+2021-05-13T11:09:35.531Z - success: xiaomi-adapter loaded
+2021-05-13T11:09:35.532Z - success: alipay-minigame loaded
+2021-05-13T11:09:35.565Z - success: assets loaded
+2021-05-13T11:09:35.568Z - success: builder loaded
+2021-05-13T11:09:35.742Z - success: cocos-services loaded
+2021-05-13T11:09:35.746Z - success: console loaded
+2021-05-13T11:09:35.768Z - success: fb-instant-games loaded
+2021-05-13T11:09:35.771Z - success: game-window loaded
+2021-05-13T11:09:35.773Z - success: google-instant-games loaded
+2021-05-13T11:09:35.776Z - success: hierarchy loaded
+2021-05-13T11:09:35.779Z - success: inspector loaded
+2021-05-13T11:09:35.780Z - success: keystore loaded
+2021-05-13T11:09:35.785Z - success: node-library loaded
+2021-05-13T11:09:35.787Z - success: package-asset loaded
+2021-05-13T11:09:35.789Z - success: preferences loaded
+2021-05-13T11:09:35.792Z - success: project-exporter loaded
+2021-05-13T11:09:35.796Z - success: project-importer loaded
+2021-05-13T11:09:35.799Z - success: project-settings loaded
+2021-05-13T11:09:35.803Z - success: scene loaded
+2021-05-13T11:09:35.804Z - success: simulator-debugger loaded
+2021-05-13T11:09:35.805Z - success: sprite-editor loaded
+2021-05-13T11:09:35.809Z - success: store loaded
+2021-05-13T11:09:35.815Z - success: timeline loaded
+2021-05-13T11:09:35.819Z - success: xiaomi-runtime loaded
+2021-05-13T11:09:36.534Z - normal: Loading packages
+2021-05-13T11:09:36.537Z - normal: Watching packages
+2021-05-13T11:09:36.606Z - normal: Run Application
+2021-05-13T11:09:39.996Z - info: Cocos Services load base data!
+2021-05-13T11:09:40.540Z - failed: load script [EventsListener] failed : Error: Cannot find module 'EventsListener'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.s._resolveFilename (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:941)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:589)
+    at /Users/gemi/NewProject_6/temp/quick-scripts/assets/scripts 2/CoinLabel.js:1:354
+    at __define (/Users/gemi/NewProject_6/temp/quick-scripts/assets/scripts 2/CoinLabel.js:7:15)
+    at /Users/gemi/NewProject_6/temp/quick-scripts/assets/scripts 2/CoinLabel.js:39:13
+2021-05-13T11:09:40.581Z - warn: Script attached to "MainNode" in scene "BigWin.fire" is missing or invalid. Detailed information:
+Node path: "Canvas/MainNode"
+Asset url: "db://assets/Scenes/BigWin.fire"
+Script UUID: "2ff1add5-a9a6-42cd-9892-54bbd2c1f52e"
+Class ID: "2ff1a3VqaZCzZiSVLvSwfUu"
+

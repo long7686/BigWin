@@ -1,0 +1,33 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fireWork",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            249.724,
+            -1.835,
+            0
+          ]
+        },
+        {
+          "frame": 2,
+          "value": [
+            -240.61,
+            -6.111,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}
